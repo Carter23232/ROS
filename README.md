@@ -12,10 +12,10 @@ This ROS package provides a comprehensive solution for obstacle avoidance using 
 
 ## Installation 
 1. Clone this repository into your ROS workspace's `src` directory:
-->git clone <repository_url> 
-->Navigate to your ROS workspace and build the package:
-->cd <your_ros_workspace> 
-->catkin build 
+2. ->git clone <repository_url>
+3. ->Navigate to your ROS workspace and build the package:
+4. ->cd <your_ros_workspace>
+5. ->catkin build 
 
 Nodes
 1. obstacle_avoidance_node
