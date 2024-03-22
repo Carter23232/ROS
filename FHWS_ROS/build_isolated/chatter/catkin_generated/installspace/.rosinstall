@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gadget/FHWS_ROS/install_isolated/setup.sh

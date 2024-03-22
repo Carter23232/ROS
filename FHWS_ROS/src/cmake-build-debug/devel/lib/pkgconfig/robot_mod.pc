@@ -1,0 +1,8 @@
+prefix=/home/gadget/FHWS_ROS/src/cmake-build-debug/devel
+
+Name: robot_mod
+Description: Description of robot_mod
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

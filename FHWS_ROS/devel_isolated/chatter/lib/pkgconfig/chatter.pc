@@ -1,0 +1,8 @@
+prefix=/home/gadget/FHWS_ROS/devel_isolated/chatter
+
+Name: chatter
+Description: Description of chatter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

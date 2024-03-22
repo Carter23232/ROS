@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: freespace
+Description: Description of freespace
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

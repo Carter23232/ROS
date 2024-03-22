@@ -1,0 +1,2 @@
+chatter:freespace/freespace:robot_mod:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlecontrol
+-DCATKIN_DEVEL_PREFIX=/home/gadget/FHWS_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/gadget/FHWS_ROS/install -G Unix Makefiles

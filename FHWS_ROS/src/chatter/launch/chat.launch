@@ -1,0 +1,5 @@
+<launch>
+<node pkg="chatter"  type="talker_node" name="talker_node"/>
+
+<node pkg="chatter" type="listener_node"  name="listener_node" output="screen"/>
+</launch>

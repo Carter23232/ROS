@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gadget/FHWS_ROS/src/turtlecontrol/cmake-build-debug/devel/setup.sh
